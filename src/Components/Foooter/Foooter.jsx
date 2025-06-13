@@ -6,7 +6,7 @@ import { motion } from 'framer-motion'
 
 const Foooter = () => {
   return (
-    <div className='bg-gradient-to-r bg-amber-400 to-primaryDark pt-12 pb-8 text-white '>
+    <div className='bg-gradient-to-r bg-amber-700 to-primaryDark pt-12 pb-8 text-white '>
        
        
        
